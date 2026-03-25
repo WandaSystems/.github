@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Memory%20Systems-0f172a?style=for-the-badge&logo=databricks&logoColor=white" alt="Memory Systems" />
   <img src="https://img.shields.io/badge/Voice%20Interfaces-111827?style=for-the-badge&logo=sonos&logoColor=white" alt="Voice Interfaces" />
   <img src="https://img.shields.io/badge/Operational%20Automation-1f2937?style=for-the-badge&logo=githubactions&logoColor=white" alt="Operational Automation" />
-  <img src="https://img.shields.io/badge/Security--Aware%20Tooling-334155?style=for-the-badge&logo=1password&logoColor=white" alt="Security-Aware Tooling" />
+  <img src="https://img.shields.io/badge/Security%20Tooling-334155?style=for-the-badge&logo=1password&logoColor=white" alt="Security Tooling" />
 </p>
 
 ## Platform Areas
