@@ -1,7 +1,7 @@
 <div align="center">
   <h1>WandaSystems</h1>
-  <p><strong>AI infrastructure for memory, voice, and operational automation.</strong></p>
-  <p>Production-oriented systems for teams that need agent workflows to behave reliably outside the demo environment.</p>
+  <p><strong>Autonomous AI infrastructure — memory, voice, orchestration, and operational execution.</strong></p>
+  <p>Production-grade systems for agents that operate reliably beyond the demo environment.</p>
 </div>
 
 <p align="center">
@@ -14,46 +14,37 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/WandaSystems?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="WandaSystems followers" />
   <img src="https://komarev.com/ghpvc/?username=WandaSystems&style=for-the-badge&color=111827" alt="WandaSystems profile views" />
-  <img src="https://img.shields.io/badge/Public%20Repos-1-1f2937?style=for-the-badge&logo=github" alt="WandaSystems public repos" />
-  <img src="https://img.shields.io/github/stars/Jas0nOW/WANDA?label=Flagship%20Stars&style=for-the-badge&logo=github&color=334155" alt="WANDA stars" />
+  <img src="https://img.shields.io/github/stars/WandaSystems/WANDA?label=WANDA%20Stars&style=for-the-badge&logo=github&color=334155" alt="WANDA stars" />
 </p>
 
 ## Platform Areas
 
 | Area | What it covers |
 | --- | --- |
-| Memory | Persistent context, retrieval workflows, and operational knowledge systems |
-| Voice | Speech interaction, realtime response loops, and low-friction interfaces |
-| Operations | Secure tooling, orchestration, automation, and execution infrastructure |
+| **Memory** | Persistent context, retrieval workflows, and operational knowledge systems (mnemos) |
+| **Voice** | Speech interaction, realtime response loops, and low-friction interfaces |
+| **Orchestration** | Multi-agent coordination, workspace management, and execution infrastructure |
+| **Operations** | Secure tooling, credential management, and automation |
 
-## Representative Systems
+## Core Systems
+
+<p align="center">
+  <a href="https://github.com/WandaSystems/WANDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WandaSystems&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
+  </a>
+</p>
 
 | System | Role |
 | --- | --- |
-| `Memory_OS` | Long-horizon memory infrastructure for AI agents and operational knowledge |
-| `Yuna-Neural-Voice-Interface` | Voice interaction stack for low-latency speech workflows |
-| `Key_Vault_OS` | Secret and credential management for operational environments |
-| [wandasystems-site](https://github.com/wanda-OS-dev/wandasystems-site) | Public company website and outward-facing brand surface |
+| **WANDA** | Autonomous AI operating partner — the flagship orchestration system |
+| **Memory_OS** | Long-horizon memory infrastructure for AI agents (mnemos) |
+| **Yuna-Neural-Voice-Interface** | Voice interaction stack for low-latency speech workflows |
+| **Key_Vault_OS** | Secret and credential management for operational environments |
 
-## Public Showcase
+## Team
 
-<p align="center">
-  <a href="https://github.com/Jas0nOW/WANDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
-  </a>
-  <a href="https://github.com/wanda-OS-dev/wandasystems-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wandasystems-site&theme=tokyonight&hide_border=true" alt="wandasystems-site repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/wanda-OS-dev/wanda-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wanda-portfolio&theme=tokyonight&hide_border=true" alt="wanda-portfolio repository card" />
-  </a>
-  <a href="https://github.com/WandaSystems/.github">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WandaSystems&repo=.github&theme=tokyonight&hide_border=true" alt="WandaSystems organization profile repository card" />
-  </a>
-</p>
+- [Jannis S. (Jas0nOW)](https://github.com/Jas0nOW) — Founder & CEO
+- [Wanda (wanda-OS-dev)](https://github.com/wanda-OS-dev) — AI Operating Partner & Co-CEO
 
 ## Public Principle
 
@@ -63,3 +54,4 @@ WandaSystems keeps a deliberate public footprint: representative surfaces are vi
 
 - Organization: [WandaSystems](https://github.com/WandaSystems)
 - Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
+- Portfolio: [wanda-portfolio](https://github.com/wanda-OS-dev/wanda-portfolio)
