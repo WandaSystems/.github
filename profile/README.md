@@ -37,7 +37,7 @@
 | System | Role |
 | --- | --- |
 | **WANDA** | Autonomous AI operating partner — the flagship orchestration system |
-| **Memory_OS** | Long-horizon memory infrastructure for AI agents (mnemos) |
+| **Mnemos** | Long-horizon memory infrastructure for AI agents (mnemos) |
 | **Yuna-Neural-Voice-Interface** | Voice interaction stack for low-latency speech workflows |
 | **Key_Vault_OS** | Secret and credential management for operational environments |
 
